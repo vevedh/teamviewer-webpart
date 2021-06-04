@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "teamviewer-webpart-client-side-solution",
+    "id": "ebcbf41a-995c-4fc9-aee9-399d0943a137",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/teamviewer-webpart.sppkg"
+  }
+}

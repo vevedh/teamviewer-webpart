@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "team-viewer-support-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/teamViewerSupport/TeamViewerSupportWebPart.js",
+          "manifest": "./src/webparts/teamViewerSupport/TeamViewerSupportWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TeamViewerSupportWebPartStrings": "lib/webparts/teamViewerSupport/loc/{locale}.js"
+  }
+}

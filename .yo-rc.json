@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem19",
+    "version": "1.11.0",
+    "libraryName": "teamviewer-webpart",
+    "libraryId": "ebcbf41a-995c-4fc9-aee9-399d0943a137",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}
